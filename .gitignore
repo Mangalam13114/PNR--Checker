@@ -1,0 +1,24 @@
+# Streamlit Secrets
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+
+
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.env
